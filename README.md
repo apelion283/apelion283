@@ -1,12 +1,15 @@
 
 ![👋 Hi, my name is Nhat Nguye](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+
 ![Profile views](https://komarev.com/ghpvc/?username=apelion283&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=01F71F&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Nhat+Nguyen)](https://git.io/typing-svg)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
